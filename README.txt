@@ -7,7 +7,7 @@
 3) If you manage to avoid Gaery until you open the very last door, you win!
 
 
-PLay here: sec-doors-game.piadascripto.repl.co
+PLay here: https://sec-doors-game.piadascripto.repl.co
 
 made by @piadascripto
  
